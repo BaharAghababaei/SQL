@@ -11,8 +11,8 @@ This project investigates the relationship between consecutive rainy days and ve
 
 | File | Description |
 |------|-------------|
-| [`rainfall_vessels_threshold_analysis.xlsx`](dashboard/rainfall_vessels_threshold_analysis.xlsx) | Excel dashboard with charts and summary stats |
-| [`port_analysis.sql`](sql/port_analysis.sql) | MySQL code for rainfall sequence detection and port data analysis |
+| [`rainfall_vessels_threshold_analysis.xlsx`](SQL/rainfall_vessels_threshold_analysis.xlsx) | Excel dashboard with charts and summary stats |
+| [`port_analysis.sql`](SQL/port_analysis.sql) | MySQL code for rainfall sequence detection and port data analysis |
 
 ---
 
@@ -42,13 +42,6 @@ The Excel file includes:
 
 ---
 
-## 💾 How to Use
-
-1. Clone the repo or download the files.
-2. Run the SQL code in your MySQL environment to regenerate the analysis.
-3. Open the Excel file to explore the results and visuals.
-
----
 
 ## 📌 Notes
 
