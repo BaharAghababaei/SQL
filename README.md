@@ -3,7 +3,7 @@ sql projects
 
 # 🌧️ Rainfall and Vessel Movement Analysis Dashboard
 
-This project investigates the relationship between consecutive rainy days and vessel operations at port terminals, using real-world data from 2014 to 2018 from Vancouver port. The analysis integrates weather data with port activity records and evaluates how rain events influence vessel departures, cargo tonnage, and anchorage time.
+This project investigates the relationship between consecutive rainy days and vessel operations at grain port terminals, using real-world data from 2014 to 2018 from Vancouver port. The analysis integrates weather data with port activity records and evaluates how rain events influence vessel departures, cargo tonnage, and anchorage time.
 
 ---
 
