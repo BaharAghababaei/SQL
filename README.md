@@ -11,8 +11,8 @@ This project investigates the relationship between consecutive rainy days and ve
 
 | File | Description |
 |------|-------------|
-| [`rainfall_vessels_threshold_analysis.xlsx`](https://baharaghababaei.github.io/SQL/rainfall_vessels_threshold_analysis.xlsx) | Excel dashboard with charts and summary stats |
-| [`port_analysis.sql`](https://baharaghababaei.github.io/SQL/port_analysis.sql) | MySQL code for rainfall sequence detection and port data analysis |
+| [`rainfall_vessels_threshold_analysis.xlsx`](https://github.com/baharaghababaei/SQL/blob/main/docs/rainfall_vessels_threshold_analysis.xlsx) | Excel dashboard with charts and summary stats |
+| [`port_analysis.sql`](https://github.com/baharaghababaei/SQL/blob/main/docs/port_analysis.sql) | MySQL code for rainfall sequence detection and port data analysis |
 
 ---
 
