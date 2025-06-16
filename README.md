@@ -11,7 +11,7 @@ This project investigates the relationship between consecutive rainy days and ve
 
 | File | Description |
 |------|-------------|
-| [`rainfall_vessels_threshold_analysis.xlsx`](https://github.com/baharaghababaei/SQL/blob/main/docs/rainfall_vessels_threshold_analysis.xlsx) | Excel dashboard with charts and summary stats |
+| [`rainfall_vessels_threshold_analysis.xlsx`](https://github.com/baharaghababaei/SQL/blob/main/docs/rainfall_vessels_threshold_analysis.xlsx) | Interactive dashboard visualizing trends across rainfall thresholds and durations|
 | [`port_analysis.sql`](https://github.com/baharaghababaei/SQL/blob/main/docs/port_analysis.sql) | MySQL code for rainfall sequence detection and port data analysis |
 
 ---
@@ -30,15 +30,15 @@ These values are grouped by:
 
 ---
 
-## 📊 Dashboard Highlights
+## 📊 Dashboard Highlights (Power BI)
 
-The Excel file includes:
-- A clean visual dashboard with line charts for:
+The Power BI file includes:
+- A clean visual reports with separate graphs:
   - Avg. vessels per day
   - Avg. tonnage per day
   - Avg. anchorage hours
-- Summary statistics across all rainy sequences
-- Insight callouts and formatted panels
+- Interactive slicers for Year and Rainfall Threshold
+
 
 ---
 
