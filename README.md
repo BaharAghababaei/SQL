@@ -19,9 +19,9 @@ This project investigates the relationship between consecutive rainy days and ve
 ## 🧠 Analysis Summary
 
 The SQL procedure calculates key performance metrics over rainy sequences where daily rainfall exceeds a defined threshold (default: **8mm**), including:
-- 📦 **Avg. tonnage loaded per day**
-- 🚢 **Avg. number of vessels departing per day**
-- ⏱️ **Avg. hours spent in anchorage**
+- 📦 **Vessel departures vs. rainy day duration**
+- 🚢 **Tonnage loaded vs. rainy day duration**
+- ⏱️ **Anchorage hours vs. rainy day duration**
 
 These values are grouped by:
 - Consecutive rainy days (1 to 6 days)
